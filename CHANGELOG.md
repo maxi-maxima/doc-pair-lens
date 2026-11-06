@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Require Zod 4.6.6 or newer to resolve GHSA-mrhx-c7xc-m3w5.
+
 ## 0.1.0
 
 - Initial public release.
