@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Upgrade the official checkout and setup-node CI actions to v7.
 - Require Zod 4.6.6 or newer to resolve GHSA-mrhx-c7xc-m3w5.
 
 ## 0.1.0

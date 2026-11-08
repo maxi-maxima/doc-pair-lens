@@ -2,6 +2,7 @@
 
 ## 未发布
 
+- 将官方 checkout 和 setup-node CI Action 升级到 v7。
 - 将 Zod 最低版本提升至 4.6.6，修复 GHSA-mrhx-c7xc-m3w5。
 
 ## 0.1.0
